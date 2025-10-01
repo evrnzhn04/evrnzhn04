@@ -53,5 +53,6 @@
 ## 🏆 LeetCode Stats
 
 <p align="left">
-  <img src="https://leetcode-stats.vercel.app/?username=evrnzhn&theme=dark" alt="LeetCode Stats" width="49%"/>
+  <img src="https://leetcode-stats.vercel.app/api?username=evrnzhn&theme=dark&hide_title=false&hide_border=false&is_amazon=false&is_jo=false&card_width=495" alt="LeetCode Stats" width="49%"/>
 </p>
+
