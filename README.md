@@ -3,11 +3,7 @@
   🎓 Computer Programming graduate | 🌐 Web technologies enthusiast | ⚡ Learning & building with Next.js
 </p>
 
-
-
 ---
-
-
 
 ## 💻 About Me
 
@@ -17,48 +13,45 @@
 - 🛠️ Currently learning backend development to complement frontend expertise.
 - 📚 Always eager to learn, experiment, and contribute to open-source projects.
 
-
-
 ---
-
-
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)  
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)  
-![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)  
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)  
-![TailwindCSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg)  
-![Prisma](https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg)  
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)  
-
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
 
 ---
-
-
 
 ## 📫 Contact Me
 
-- ✉️ Email: [youremail@example.com](mailto:youremail@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-- 🐦 Twitter: [twitter.com/yourhandle](https://twitter.com/yourhandle)  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
-
-
-## 📊 GitHub Stats
-
-![Evren's GitHub stats](https://github-readme-stats.vercel.app/api?username=evrenzhn04&show_icons=true&theme=radical)
-
-
+<p align="left">
+  ✉️ <a href="mailto:youremail@example.com">youremail@example.com</a> &nbsp; | &nbsp;
+  💼 <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> &nbsp; | &nbsp;
+  🐦 <a href="https://twitter.com/yourhandle">Twitter</a> &nbsp; | &nbsp;
+  🌐 <a href="https://yourwebsite.com">Portfolio</a>
+</p>
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=evrenzhn04&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evrenzhn04&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
+</p>
+
+---
 
 ## 🏆 LeetCode Stats
 
-![Evren's LeetCode stats](https://leetcode-stats.vercel.app/?username=your-leetcode-username&theme=dark)
+<p align="left">
+  <img src="https://leetcode-stats.vercel.app/?username=your-leetcode-username&theme=dark" alt="LeetCode Stats" width="49%"/>
+</p>
