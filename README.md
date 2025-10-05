@@ -34,8 +34,7 @@
 
 <p align="left">
   ✉️ <a href="mailto:youremail@example.com">youremail@example.com</a> &nbsp; | &nbsp;
-  💼 <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> &nbsp; | &nbsp;
-  🐦 <a href="https://twitter.com/yourhandle">Twitter</a> &nbsp; | &nbsp;
+  💼 <a href="https://www.linkedin.com/in/evren-zehni-194055313/">LinkedIn</a> &nbsp; | &nbsp;
   🌐 <a href="https://yourwebsite.com">Portfolio</a>
 </p>
 
