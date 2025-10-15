@@ -33,7 +33,7 @@
 ## 📫 Contact Me
 
 <p align="left">
-  ✉️ <a href="mailto:evrenzhn04@gmail.com">youremail@example.com</a> &nbsp; | &nbsp;
+  ✉️ <a href="mailto:evrenzhn04@gmail.com">Email</a> &nbsp; | &nbsp;
   💼 <a href="https://www.linkedin.com/in/evren-zehni-194055313/">LinkedIn</a> &nbsp; | &nbsp;
   🌐 <a href="https://portfolio-blush-nine-5fzx7nag63.vercel.app/">Portfolio</a>
 </p>
